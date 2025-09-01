@@ -1,0 +1,15 @@
+Hangman game:
+
+    -- O
+    | -|-
+    |_/ \ 
+
+    amount of attemps - 9
+    when attemps == 9 then game over
+
+    we'll ask to start to play
+    once game is over ask do you want to play again and then it'll play again using Y/N
+    generate a random word so _ _ _ _ _ could be WOULD
+    display correct letters on _...
+    display wrong letters on side
+    User has the option to guess the word if they know it
